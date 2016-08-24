@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-description: "Literature, Writing, Gender and Sexuality, Digital Humanities."
+description: 
 header-img: images/federation-banner-dark.jpg
 comments: false
 modified: 2016-08-23
