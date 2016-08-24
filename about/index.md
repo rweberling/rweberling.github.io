@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-header-img: images/about.jpg
+header-img: images/anglo-america-banner.jpg
 comments: false
-modified: 2015-04-15
+modified: 2016-08-24
 ---
 
 ## About Me
