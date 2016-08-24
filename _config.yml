@@ -1,23 +1,23 @@
-title:            Yi-Xin Liu
-description:      "Dr. Yi-Xin Liu is a lecturer and researcher working in the field of polymer physics at Fudan University. He currently is working at MRL@UCSB as a visiting researcher."
-disqus_shortname: ngpy
+title:            Ryan Weberling
+description:      "Graduate Student in Anglophone Literature and Modernist Studies."
+disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 #url:                    # blank for local preview
-url: http://ngpy.org   # for production
+url:                     # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 
 # Owner/author information
 owner:
-  name:           Yi-Xin Liu
+  name:           Ryan Weberling
   avatar:         avatar.jpg
-  bio:            "Dr. Yi-Xin Liu is a lecturer and researcher working in the field of polymer physics at Fudan University. He currently is also working at MRL@UC Santa Barbara as a visiting researcher."
-  email:          lyx@fudan.edu.cn
+  bio:            "Graduate Student in Anglophone Literature and Modernist Studies."
+  email:          ryanweb@bu.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter: lyxfudan
+  twitter: ryweb
   facebook:
-  github: liuyxpp
+  github: rweberling
   stackexchange:
   linkedin:
   instagram:
@@ -30,15 +30,15 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-31783224-1  # Analytics Property ID
-google_verify: vCNYuIbRPqv4coJvcqQglEsd4IBd9p4cP0AdERyG86w  # Webmaster
+google_analytics:   # Analytics Property ID
+google_verify:      # Webmaster
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Shanghai
+timezone:    America/Cancun
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
