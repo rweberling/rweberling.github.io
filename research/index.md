@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Interests
-description: "Polymer Physics &amp; Numerical Algorithms."
+description: "Anglophone Literature and Modernist Studies."
 header-img: images/research-1.jpg
 comments: false
 modified: 2015-04-15
