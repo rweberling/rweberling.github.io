@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-header-img: images/anglo-america.jpg
+header-img: images/federation-banner-dark.jpg
 comments: false
 modified: 2016-08-24
 ---
