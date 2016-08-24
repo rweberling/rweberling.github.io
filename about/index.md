@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-header-img: images/anglo-america-banner.jpg
+header-img: images/anglo-america.jpg
 comments: false
 modified: 2016-08-24
 ---
