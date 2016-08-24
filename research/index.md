@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interests
+title: Research
 description: 
 header-img: images/federation-banner-dark.jpg
 comments: false
