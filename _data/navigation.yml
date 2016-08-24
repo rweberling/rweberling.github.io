@@ -3,17 +3,17 @@
 - title:    Home
   url:      /
 
+- title:    About
+  url:      /about/
+
+- title:    Blog
+  url:      /blog/
+
 - title:    Research
-  url:      /research/
+  url:      /resesarch/
 
 - title:    Publications
   url:      /publications/
 
 - title:    Software
   url:      /software/
-
-- title:    Blog
-  url:      /blog/
-
-- title:    About
-  url:      /about/
