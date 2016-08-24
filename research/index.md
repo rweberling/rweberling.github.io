@@ -2,7 +2,7 @@
 layout: page
 title: Research Interests
 description: "Anglophone Literature and Modernist Studies."
-header-img: images/federation-banner.jpg
+header-img: images/federation-banner-dark.jpg
 comments: false
 modified: 2016-08-24
 ---
