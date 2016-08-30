@@ -17,7 +17,9 @@ Jump to:
 ## <a id="dissertation"></a>Dissertation
 --------
 
-### Overview: "'One World, One Life': Modernist Fiction and the Politics of Federation, 1880-1980"
+### Overview
+
+*"One World, One Life": Modernist Fiction and the Politics of Federation, 1880-1980* 
 
 Writing in Paris at the height of the U.S. Civil War, the French politician and anarchist philosopher Pierre-Joseph Proudhon predicted that “the twentieth century will open the age of federations.” His prediction took on new and suggestively figurative dimensions almost two decades later, when Virginia Woolf’s father, Leslie Stephen, adapted the idea of federation to the “microcosm” of mental order and individual “constitution”:
 
