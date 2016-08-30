@@ -8,10 +8,11 @@ modified: 2016-08-30
 
 ## Ryan Weberling
 
-Department of English
-Boston University
-Email: ryanweb@bu.edu
-Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
+**Boston University**, Department of English  
+236 Bay State Road, Boston, MA, 02215  
+
+Email: ryanweb@bu.edu  
+Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)  
 
 
 ### Research Interests
