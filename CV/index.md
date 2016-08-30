@@ -17,10 +17,10 @@ Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
 ### Education
 -----
 
-**Boston University**, Boston, 2017 (anticipated)  
+**Boston University**, 2017 (anticipated)  
 Ph.D. in English and American Literature  
 
-**Boston University**, Boston, 2012  
+**Boston University**, 2012  
 M.A. in English and American Literature
 
 ### Research Interests
