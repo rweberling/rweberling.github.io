@@ -12,6 +12,8 @@ I am a graduate student in the [English Department](http://www.bu.edu/english) a
 
 Other projects include digitally mapping the letters and social networks of Virginia Woolf, in affiliation with the [Twentieth Century Literary Letters Project](http://www.modmaps.net/tcllp).
 
+View my [*curriculum vitae*](http://rweberling.github.io/CV).
+
 ## About This Website
 
 This website is powered by [LYX Jekyll theme](https://github.com/liuyxpp/liuyxpp.github.io) and hosted on [Github](http://www.github.com).
