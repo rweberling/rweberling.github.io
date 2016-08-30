@@ -14,6 +14,14 @@ modified: 2016-08-30
 Email: ryanweb@bu.edu  
 Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)  
 
+### Education
+-----
+
+**Boston University**, Boston, 2017 (anticipated)  
+Ph.D. in English and American Literature  
+
+**Boston University**, Boston, 2012  
+M.A. in English and American Literature
 
 ### Research Interests
 -----
@@ -23,15 +31,6 @@ Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
 - Imperial History, International Politics, and Postcolonial Theory
 - Women's, Gender, and Sexuality Studies
 - Digital Approaches to Teaching and Scholarship
-
-### Education
------
-
-**Boston University**, Boston, 2017 (anticipated)
-Ph.D. in English and American Literature
-
-**Boston University**, Boston, 2012
-M.A. in English and American Literature
 
 <div markdown="0">
     <br><br>
