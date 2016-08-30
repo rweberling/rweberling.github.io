@@ -11,7 +11,7 @@ modified: 2015-04-15
 Department of English
 Boston University
 Email: ryanweb@bu.edu
-Website: 
+Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
 
 
 ### Research Interests
@@ -20,6 +20,9 @@ Website:
 
 ### Education
 -----
+
+**Boston University**, Boston, 2017 (anticipated)
+Ph.D. in English and American Literature
 
 **Boston University**, Boston, 2012
 M.A. in English and American Literature
