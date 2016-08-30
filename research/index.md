@@ -40,9 +40,9 @@ Each chapter in my dissertation pairs a modernist writer with an important momen
 ### Topics
 
 * Modernist Fiction
-* Imperial History and International Politics
-* *Bildungsroman*
 * Constitutional Narratives
+* The *Bildungsroman*
+* Imperial History and International Politics
 
 ### Research Notes
 
