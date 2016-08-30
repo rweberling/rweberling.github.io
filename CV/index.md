@@ -1,9 +1,9 @@
 ---
 layout: page
 title: CV
-header-img: images/abstract-5.jpg
+header-img: images/federation-banner-dark.jpg
 comments: false
-modified: 2015-04-15
+modified: 2016-08-30
 ---
 
 ## Ryan Weberling
@@ -17,6 +17,11 @@ Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
 ### Research Interests
 -----
 
+- Modernist Literature and Culture, 1880-1980
+- 20th-Century Anglophone Fiction
+- Imperial History, International Politics, and Postcolonial Theory
+- Women's, Gender, and Sexuality Studies
+- Digital Approaches to Teaching and Scholarship
 
 ### Education
 -----
