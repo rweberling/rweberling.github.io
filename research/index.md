@@ -11,8 +11,8 @@ Major Projects
 
 Jump to:  
 
-&nbsp; &nbsp; &nbsp; - Dissertation: [Modernist Fiction and the Politics of Federation, 1880-1980](#dissertation)  
-&nbsp; &nbsp; &nbsp; - Digital Humanities Project: [Modernist Correspondence Networks](#dh)  
+- Dissertation: [Modernist Fiction and the Politics of Federation, 1880-1980](#dissertation)  
+- Digital Humanities Project: [Modernist Correspondence Networks](#dh)  
 
 ## <a id="dissertation"></a>Dissertation
 --------
