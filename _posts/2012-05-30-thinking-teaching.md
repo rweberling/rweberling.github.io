@@ -14,7 +14,9 @@ tags:
 
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Thinking+Teaching&rft.source=Ryan+Weberling&rft.date=2012-05-30&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D5&rft.language=English&rft.subject=Teaching&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
-Beginning on Tuesday, September 4, I will be teaching my first stand-alone literature course at the college level. That means I will be spending a good bit of time this summer preparing for my specific section of [EN 121: Readings in World Literature](http://www.ryanweberling.com/citylit). However, I also hope to spend some time planning and contemplating future teaching activities in the context of changes in higher education and what they mean for my sense of vocation.
+Beginning on Tuesday, September 4, I will be teaching my first stand-alone literature course at the college level. That means I will be spending a good bit of time this summer preparing for my specific section of [EN 121: Readings in World Literature](http://www.ryanweberling.com/citylit). However, I also hope to spend some time planning and contemplating future teaching activities in the context of changes in higher education. What do these changes mean for my sense of vocation?
+
+<!--excerpt-->
 
 Although the job market for humanities professors, in particular, and the status of the postsecondary education industry, in general, are [less than reassuring](http://chronicle.com/article/We-Need-to-Acknowledge-the/64885/), I have at least the next few years as a Graduate Teaching Fellow ahead of me. And besides, I have always considered &#8220;education&#8221; to be a fluid process that includes a range of practices and interactions that stretch beyond the specific context of a teacher/student dyad—more of an event than an enterprise.
 
