@@ -12,6 +12,37 @@ At Boston University, I teach introductory literature courses in the English dep
 ## Literature
 -------
 
+### Courses Taught
+-----
+
+- EN 141: Introduction to Fiction; Topic: In Our Time—Modernism, Fiction, and History
+- EN 125: Reading Modern Literature: Topic: Growing Up Modern
+- EN 121: Reading World Literature; Topic: Literature in the City
+
+- Seminar Topics: Modernist Fiction and Magazines; Litratures of Civil War from Antigone to Adichie; Fictions of Empire
+
+### Comments from Students
+-----
+
+*EN 141: Introduction to Fiction*
+
+- "I enjoyed and learned a lot from our assigned readings."
+- "Assignments were relevant, class discussions productive."
+- "Professor Weberling did a great job at engaging students in in-depth discussions for each of the works we read.... a great, caring professor."
+
+*EN 125: Reading Modern Literature*
+
+-“The instructor’s approach to teaching through assigned and discussed blog posts on the course texts was very helpful and effective.”
+“He broke down subjects clearly and allowed us to think abstractly.”
+“I definitely had to work hard, but all discussions were relevant, and he was always able to stimulate participation from everyone in the course. Analysis of close readings was a prime focus, and I think I definitely improved.”
+“The class was great, and the instructor was one of my favorite at BU.”
+
+*EN 121: Reading World Literature*
+
+- “The topics were incredibly interesting, and I feel I gained a great amount of cultural knowledge.”
+- “Helpful in office hours.”
+- “I would recommend this class to my peers.”
+- “Great course! One of my favorite classes so far.”
 
 ## Writing
 -----
@@ -30,6 +61,7 @@ These semester-long seminar courses focus on a particular topic. My sections of 
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 <blockquote class="twitter-tweet" lang="en" data-conversation="none">More undergrad <a href="https://twitter.com/hashtag/Neatline?src=hash">#Neatline</a> work. RT <a href="https://twitter.com/ryweb">@ryweb</a>: Mapping Conrad: My students' "Heart of Darkness: An Online Research Guide" <a href="http://t.co/QrWAZNwEVU">http://t.co/QrWAZNwEVU</a> — Bethany Nowviskie (@nowviskie) <a href="https://twitter.com/nowviskie/status/459702450216509440">April 25, 2014</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
+
 
 ### Courses Taught
 -----
