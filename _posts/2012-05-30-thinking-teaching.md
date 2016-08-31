@@ -1,13 +1,11 @@
 ---
-id: 5
-title: Thinking Teaching
-date: 2012-05-30T23:53:17+00:00
-author: ryanweb
 layout: post
-guid: http://ryanweberling.wordpress.com/?p=1
-permalink: /?p=5
-category_sticky_post:
-  - 0
+title: Thinking Teaching
+author: Ryan Weberling
+create: 2012-05-30
+modified: 2012-05-30
+image:
+    feature: federation-banner-dark.jpg
 categories:
   - [Teaching, The Profession]
 tags:
