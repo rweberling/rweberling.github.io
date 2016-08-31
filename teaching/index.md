@@ -12,14 +12,24 @@ At Boston University, I teach introductory literature courses in the English dep
 ## Literature
 -------
 
+Though we often imagine reading as a solitary activity, storytelling and literary study have been—and will continue to be—interactive. In the courses I teach, student essays, group presentations, and a close reading blog are integrated into class discussions, sharpening our focusing on particular aspects of the text or topic at hand while also allowing conversations to extend throughout the semester. For example, one of my World Literature courses dedicated a 4-week-long unit to in-depth discussion and multimedia research around Salman Rusdhie’s Midnight’s Children (1980). But we also used the close reading blog to “tag” any [posts related to gender](http://www.ryanweberling.com/citylit2013/category/gender-in-the-city/). This allowed us to continue a discussion that began early in the semester (after reading Henrik Ibsen’s A Doll’s House) and return to the subject while revising final papers and reviewing for the exam. Together, these sorts of multimodal activities provide the venue for a semester-long process of dialogue and intellectual collaboration.
+
+As a Graduate Teaching Fellow in Boston University’s English Department, I have designed and taught introductory surveys of modern literature (from Voltaire to Marjane Satrapi) and world literature (from Genesis to Jay-Z). While introducing students to important periods and categories of literary history (European Enlightenment, Victorian England, Post-Partition Fiction, Magical Realism), these courses also use topics such as “coming-of-age in the modern world” and “literature in the city” to explore connections between time periods and national literatures. By noticing when these connections fail to generate meaning or shared understanding, we get a better sense of both the universality of narrative forms and the gaps or contradictions that shape cultural expression and intercultural exchange.
+
 ### Courses Taught
 -----
 
-- EN 141: Introduction to Fiction; Topic: In Our Time—Modernism, Fiction, and History
-- EN 125: Reading Modern Literature: Topic: Growing Up Modern
-- EN 121: Reading World Literature; Topic: Literature in the City
+- EN 141: Introduction to Fiction
 
-- Seminar Topics: Modernist Fiction and Magazines; Litratures of Civil War from Antigone to Adichie; Fictions of Empire
+Topic: In Our Time—Modernism, Fiction, and History
+
+- EN 125: Reading Modern Literature
+
+Topic: Growing Up Modern ([Course Blog](http://www.ryanweberling.com/growingupmodern/))
+
+- EN 121: Reading World Literature
+
+Topic: Literature in the City ([Course Blog](http://ryanweberling.com/citylit/))
 
 ### Comments from Students
 -----
