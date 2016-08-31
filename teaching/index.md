@@ -21,15 +21,15 @@ As a Graduate Teaching Fellow in Boston University’s English Department, I hav
 
 - EN 141: Introduction to Fiction
 
-Topic: In Our Time—Modernism, Fiction, and History
+&nbsp; &nbsp; &nbsp; Topic: In Our Time—Modernism, Fiction, and History
 
 - EN 125: Reading Modern Literature
 
-Topic: Growing Up Modern ([Course Blog](http://www.ryanweberling.com/growingupmodern/))
+&nbsp; &nbsp; &nbsp; Topic: Growing Up Modern ([Course Blog](http://www.ryanweberling.com/growingupmodern/))
 
 - EN 121: Reading World Literature
 
-Topic: Literature in the City ([Course Blog](http://ryanweberling.com/citylit/))
+&nbsp; &nbsp; &nbsp; Topic: Literature in the City ([Course Blog](http://ryanweberling.com/citylit/))
 
 ### Comments from Students
 -----
@@ -42,10 +42,10 @@ Topic: Literature in the City ([Course Blog](http://ryanweberling.com/citylit/))
 
 *EN 125: Reading Modern Literature*
 
--“The instructor’s approach to teaching through assigned and discussed blog posts on the course texts was very helpful and effective.”
-“He broke down subjects clearly and allowed us to think abstractly.”
-“I definitely had to work hard, but all discussions were relevant, and he was always able to stimulate participation from everyone in the course. Analysis of close readings was a prime focus, and I think I definitely improved.”
-“The class was great, and the instructor was one of my favorite at BU.”
+- “The instructor’s approach to teaching through assigned and discussed blog posts on the course texts was very helpful and effective.”
+- “He broke down subjects clearly and allowed us to think abstractly.”
+- “I definitely had to work hard, but all discussions were relevant, and he was always able to stimulate participation from everyone in the course. Analysis of close readings was a prime focus, and I think I definitely improved.”
+- “The class was great, and the instructor was one of my favorite at BU.”
 
 *EN 121: Reading World Literature*
 
