@@ -2,10 +2,10 @@
 layout: post
 title: '&#8220;an experimental college, an adventurous college&#8221;'
 author: Ryan Weberling
-create: 2014-05-26
-modified: 2015-04-15
+create: 2012-11-28
+modified: 2012-11-28
 image:
-    feature: abstract-5.jpg
+    feature: federation-banner-dark.jpg
 categories: [Teaching]
 tags: [Virginia Woolf, Higher Education, Debt]
 
