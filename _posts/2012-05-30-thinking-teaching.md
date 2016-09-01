@@ -16,7 +16,7 @@ tags:
 
 Beginning on Tuesday, September 4, I will be teaching my first stand-alone literature course at the college level. That means I will be spending a good bit of time this summer preparing for my specific section of [EN 121: Readings in World Literature](http://www.ryanweberling.com/citylit). However, I also hope to spend some time planning and contemplating future teaching activities in the context of changes in higher education. What do these changes mean for my sense of vocation?
 
-<!--excerpt-->
+<!--more-->
 
 Although the job market for humanities professors, in particular, and the status of the postsecondary education industry, in general, are [less than reassuring](http://chronicle.com/article/We-Need-to-Acknowledge-the/64885/), I have at least the next few years as a Graduate Teaching Fellow ahead of me. And besides, I have always considered &#8220;education&#8221; to be a fluid process that includes a range of practices and interactions that stretch beyond the specific context of a teacher/student dyad—more of an event than an enterprise.
 
