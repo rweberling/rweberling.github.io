@@ -1,36 +1,29 @@
 ---
-id: 167
-title: 'Notes from MLA: Theories and Practices of the Literary Lab'
-date: 2013-01-06T20:16:33+00:00
-author: ryanweb
 layout: post
-guid: http://www.ryanweberling.com/?p=167
-permalink: /?p=167
-categories:
-  - DH
-tags:
-  - digital humanities
-  - literary labs
-  - MLA conference
-  - novels
+title: 'Notes from MLA: Theories and Practices of the Literary Lab'
+author: ryanweb
+create: 2013-01-06
+modified: 2013-01-06
+image:
+    feature: federation-banner-dark.jpg
+categories: [Resesarch, Conferences]
+tags: [digital humanities, literary labs, MLA, novels, higher education]
 ---
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Notes+from+MLA%3A+Theories+and+Practices+of+the+Literary+Lab&rft.source=Ryan+Weberling&rft.date=2013-01-06&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D167&rft.language=English&rft.subject=DH&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
-MLA Session
+Notes from an MLA 2013 session on "Theories and Practices of the Literary Lab." <!--more-->
 
-Presiding:_ _<a>Andrew Piper</a>, McGill Univ.
+Presiding:
 
-_Speakers:_
+- <a>Andrew Piper</a>, McGill Univ.
+
+Speakers:
   
-<a>Mark Algee-Hewitt</a>, Stanford Univ.
-  
-<a>Lindsey Eckert</a>, Univ. of Toronto
-  
-<a>Matthew Jockers</a>, Univ. of Nebraska, Lincoln
-  
-<a>Laura C. Mandell</a>, Texas A&M Univ., College Station
-  
-<a>Jeffrey Thompson Schnapp</a>, Harvard Univ.
+- <a>Mark Algee-Hewitt</a>, Stanford Univ.
+- <a>Lindsey Eckert</a>, Univ. of Toronto
+- <a>Matthew Jockers</a>, Univ. of Nebraska, Lincoln
+- <a>Laura C. Mandell</a>, Texas A&M Univ., College Station
+- <a>Jeffrey Thompson Schnapp</a>, Harvard Univ.
 
 Recent developments can be traced back to the rise of the Humanities &#8220;Institute.&#8221; Are literary labs a counterweight to or an emulation of the sciences as the bedrock of what is important in higher education, of what the university _is_? The creation of literary labs seems to promise some forms of change: different research questions, changing research practices, shifting institutional structures and professional relationships, new teaching strategies, etc.
 
