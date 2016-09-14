@@ -13,7 +13,7 @@ categories:
 ---
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Wikipedia+What%3F+Wikiprojects+and+How+They+Run&rft.source=Ryan+Weberling&rft.date=2014-05-15&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D272&rft.language=English&rft.subject=DH&rft.subject=Research&rft.subject=Teaching&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
-Anybody anywhere can contribute to Wikipedia, but new editors often find themselves confused by the editing interface, the protocols and preferences of the official Wikipedia &#8220;community,&#8221; or both. Although Wikipedia is the most accessible reference resource ever created, especially via Google&#8217;s &#8220;enhanced search results,&#8221; it can be much trickier to figure out what&#8217;s happening behind the scenes.
+Anybody anywhere can contribute to Wikipedia, but new editors often find themselves confused by the editing interface, the protocols and preferences of the official Wikipedia &#8220;community,&#8221; or both. Although Wikipedia is the most accessible reference resource ever created, especially via Google&#8217;s &#8220;enhanced search results,&#8221; it can be much trickier to figure out what&#8217;s happening behind the scenes.<!--more-->
 
 This blog post tries to address some of these challenges by linking directly to some of the pages that make up the site&#8217;s editorial infrastructure, which are marked off in a separate section of Wikipedia by their unique URL:
 
