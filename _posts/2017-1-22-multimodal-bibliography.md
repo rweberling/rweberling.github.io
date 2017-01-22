@@ -4,8 +4,6 @@ title: Multimodal Bibliography
 date: 2017-1-22T19:25:52+00:00
 author: ryanweb
 layout: post
-guid: http://ryanweberling.com/?p=342
-permalink: /?p=342
 categories:
   - Teaching
   - Writing
