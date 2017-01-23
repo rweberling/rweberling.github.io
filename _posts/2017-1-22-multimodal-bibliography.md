@@ -1,11 +1,11 @@
 ---
-id: 342
-title: Multimodal Bibliography
-date: 2017-1-22T19:25:52+00:00
-author: ryanweb
 layout: post
-guid: https://rweberling.github.io/2017/01/multimodal-bibliography
-permalink: /2017/01/multimodal-bibliography
+title: Multimodal Bibliography
+author: ryanweb
+create: 2017-01-22
+modified: 2017-01-22
+image:
+    feature: federation-banner-dark.jpg
 categories: [Teaching, Writing]
 ---
 
