@@ -4,8 +4,7 @@ title: Global Modernism and Civil War (again)
 date: 2015-11-25T13:16:52+00:00
 author: ryanweb
 layout: post
-categories:
-  - [Dissertation, Research]
+categories: [Dissertation, Research]
 ---
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Global+Modernism+and+Civil+War+%28again%29&rft.source=Ryan+Weberling&rft.date=2015-11-25&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D341&rft.language=English&rft.subject=Dissertation&rft.subject=Research&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
