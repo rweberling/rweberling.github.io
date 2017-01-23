@@ -1,13 +1,12 @@
 ---
-id: 272
-title: Wikipedia What? Wikiprojects and How They Run
-date: 2014-05-15T12:48:13+00:00
-author: ryanweb
 layout: post
-categories:
-  - DH
-  - Research
-  - Teaching
+title: Wikipedia What? Wikiprojects and How They Run
+author: ryanweb
+create: 2014-05-15
+modified: 2014-05-15
+image:
+    feature: federation-banner-dark.jpg
+categories: [DH, Research, Teaching]
 ---
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Wikipedia+What%3F+Wikiprojects+and+How+They+Run&rft.source=Ryan+Weberling&rft.date=2014-05-15&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D272&rft.language=English&rft.subject=DH&rft.subject=Research&rft.subject=Teaching&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
