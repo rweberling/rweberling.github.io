@@ -7,8 +7,7 @@ layout: post
 guid: https://rweberling.github.io/2017/01/multimodal-bibliography
 permalink: /2017/01/multimodal-bibliography
 categories:
-  - Teaching
-  - Writing
+  - [Teaching, Writing]
 ---
 
 While reviewing material for my intro to college writing seminar this semester (topic: modernist fiction and magazines), I came across the handout I prepared for my presentation with the faculty working group on multimodal composition. It was a helpful series of workshops, discussions, and demonstrations coordinated by [Deb Breen](http://www.bu.edu/writingprogram/people/writing-program-faculty/deborah-breen/) and [Jason Prentice](http://www.bu.edu/writingprogram/people/writing-program-faculty/jason-prentice/). <!--more-->
