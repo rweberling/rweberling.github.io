@@ -1,12 +1,12 @@
 ---
-id: 233
-title: Twentieth Century Literary Letters Project (TCLLP)
-date: 2013-08-30T10:00:40+00:00
-author: ryanweb
 layout: post
-categories:
-  - DH
-  - Research
+title: Twentieth Century Literary Letters Project (TCLLP)
+author: ryanweb
+create: 2013-08-30
+modified: 2013-08-30
+image:
+    feature: federation-banner-dark.jpg
+categories: [DH, Research]
 ---
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Twentieth+Century+Literary+Letters+Project+%28TCLLP%29&rft.source=Ryan+Weberling&rft.date=2013-08-30&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D233&rft.language=English&rft.subject=DH&rft.subject=Research&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
 
