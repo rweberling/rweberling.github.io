@@ -6,10 +6,8 @@ create: 2012-05-30
 modified: 2012-05-30
 image:
     feature: federation-banner-dark.jpg
-categories:
-  - [Teaching, The Profession]
-tags:
-- [Humanities, Higher Education, Job Market]
+categories: [Teaching]
+tags: [Humanities, Higher Education, Job Market]
 ---
 
 <span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.type=&rft.format=text&rft.title=Thinking+Teaching&rft.source=Ryan+Weberling&rft.date=2012-05-30&rft.identifier=http%3A%2F%2Fryanweberling.com%2F%3Fp%3D5&rft.language=English&rft.subject=Teaching&rft.aulast=Weberling&rft.aufirst=Ryan"></span>
