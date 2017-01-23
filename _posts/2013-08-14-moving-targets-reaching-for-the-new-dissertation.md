@@ -5,6 +5,8 @@ author: Ryan Weberling
 created: 2013-08-14
 modified: 2013-08-14
 categories: [Research, Dissertation]
+image:
+    feature: federation-banner-dark.jpg
 tags: [Digital Humanities, Graduate School, Professionalization, Scholarly Communication]
 ---
 
