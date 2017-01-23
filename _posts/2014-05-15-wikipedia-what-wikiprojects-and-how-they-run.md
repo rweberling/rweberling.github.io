@@ -4,8 +4,6 @@ title: Wikipedia What? Wikiprojects and How They Run
 date: 2014-05-15T12:48:13+00:00
 author: ryanweb
 layout: post
-guid: http://www.ryanweberling.com/?p=272
-permalink: /?p=272
 categories:
   - DH
   - Research
