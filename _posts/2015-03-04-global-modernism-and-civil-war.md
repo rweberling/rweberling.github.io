@@ -4,8 +4,6 @@ title: Global Modernism and Civil War
 date: 2015-03-04T23:17:10+00:00
 author: ryanweb
 layout: post
-guid: http://ryanweberling.com/?p=292
-permalink: /?p=292
 categories:
   - Dissertation
   - Research
