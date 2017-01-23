@@ -4,8 +4,6 @@ title: Twentieth Century Literary Letters Project (TCLLP)
 date: 2013-08-30T10:00:40+00:00
 author: ryanweb
 layout: post
-guid: http://www.ryanweberling.com/?p=233
-permalink: /?p=233
 categories:
   - DH
   - Research
