@@ -4,8 +4,6 @@ title: Visual Woolf
 date: 2015-04-02T14:03:39+00:00
 author: ryanweb
 layout: post
-guid: http://ryanweberling.com/?p=296
-permalink: /?p=296
 categories:
   - Dissertation
   - Research
