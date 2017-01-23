@@ -4,7 +4,7 @@ disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 #url:                    # blank for local preview
-url:                     # for production
+url: ryanweberling.com                     # for production
 header-img: images/federation-banner-dark.jpg
 excerpt_separator: "<!--more-->"
 
