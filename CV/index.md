@@ -17,11 +17,16 @@ Website: [http://www.ryanweberling.com](http://www.ryanweberling.com)
 ### Education
 -----
 
-**Boston University**, 2017 (anticipated)  
+**Boston University**, 2020  
 Ph.D. in English and American Literature  
+
+Graduate Certificate in Women's, Gender, and Sexuality Studies
+Graduate Certificate in Teaching College Writing
 
 **Boston University**, 2012  
 M.A. in English and American Literature
+
+Certificate in Digital Humanities Databases (2012 Digital Humanities Summer Institute)
 
 ### Research Interests
 -----
